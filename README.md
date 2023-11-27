@@ -1,7 +1,7 @@
 # Patient Management System
 
-Hello There, It is a simple university project of database course. I have made a simple UI and basic SQL commands to make this project.
-Created with help of YouTube, Google, GitHub, Stack Overflow, free templates on the internet and so on. 
+Hello There, It is a simple university project of database course. I have made a simple Java Hibernate and basic SQL commands to make this project.
+ 
 
 It contains five modules 
 1.Doctor Management
@@ -10,7 +10,7 @@ It contains five modules
 4.Appoinment Management
 5.Bill Management
 
-It contains of one types of login : 
+It contain  one mode of login : 
 1. Admin login.
 
 
